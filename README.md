@@ -1,185 +1,164 @@
-<div align="center">
-
 # 👋 Hi, I'm Nikhil
 
-### Full-Stack Developer • Student • Builder • Problem Solver
+### 🚀 Full Stack Developer • Student • Builder
 
-<p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Useful+Projects;Learning+System+Design;Exploring+AI+%26+Modern+Tech" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Nikhil-Dev435">
-    <img src="https://img.shields.io/badge/GitHub-Nikhil--Dev435-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://komarev.com/ghpvc/?username=Nikhil-Dev435&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="mailto:nikhilchoudhary4352@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/Nikhil-Dev435?tab=followers">
+    <img src="https://img.shields.io/github/followers/Nikhil-Dev435?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+real-world+projects;Learning+System+Design;Turning+ideas+into+software" alt="Typing SVG"/>
-
-</div>
-
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-```javascript
-const nikhil = {
-    name: "Nikhil",
-    username: "Nikhil-Dev435",
-    role: "Full-Stack Developer",
-    location: "India",
-    currentlyWorkingOn: ["Kisan-Setu"],
-    collaboratingOn: ["VayuDrishti"],
-    currentlyLearning: ["System Design", "Vibe Coding"],
-    interests: [
-        "Web Development",
-        "Backend Development",
-        "AI/ML",
-        "Problem Solving",
-        "Building Real-World Projects"
-    ],
-    funFact: "I love turning ideas into working software 🚀"
-};
-```
-
----
-
-## 🧠 What I'm Currently Doing
-
-- 🔭 Building **Kisan-Setu**
-- 🌱 Learning **System Design & modern development workflows**
+- 🔭 Currently working on **Kisan-Setu**
+- 🌱 Currently learning **Vibe Coding & System Design**
 - 👯 Looking to collaborate on **VayuDrishti**
-- 💻 Exploring **Full-Stack Development**
-- 🧠 Improving my problem-solving and software architecture skills
-- 🚀 Building projects that solve real-world problems
+- 💬 Ask me about **Full Stack Development**
+- 🤝 Interested in **AI, Web Development & System Design**
+- 🎓 Student & passionate developer
+- 🇮🇳 Based in India
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Projects
 
-### 💻 Languages
+### 🌾 Kisan-Setu
+
+A project focused on building useful technology for farmers.
+
+🔗 **Repository:**  
+https://github.com/Nikhil-Dev435/Kisan-Setu
+
+### 🌤️ VayuDrishti
+
+An AI/technology-focused project that I'm interested in developing and collaborating on.
+
+🔗 **Repository:**  
+https://github.com/Nikhil-Dev435/VayuDrishti
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,mongodb,mysql,oracle" />
 </p>
 
-### ☁️ Tools & DevOps
+### Cloud, DevOps & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,figma,photoshop,androidstudio" />
 </p>
 
-> Some technologies above represent my learning/toolkit areas and may not yet be used extensively in my public repositories.
+### AI / Other
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ollama" />
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Dev435&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Dev435&layout=compact&hide_border=true&langs_count=8" />
+</p>
 
-<img src="https://github-stats-extended.vercel.app/api?username=Nikhil-Dev435&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+---
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nikhil-Dev435&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+# 🔥 Contribution Streak
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Nikhil-Dev435&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nikhil-Dev435&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
 # 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-Dev435&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-Dev435&theme=tokyo-night&hide_border=true&area=true" alt="Nikhil's GitHub Activity Graph"/>
+---
 
-</div>
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikhil-Dev435/Nikhil-Dev435/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-Dev435&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 # 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Nikhil-Dev435/Kisan-Setu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Dev435&repo=Kisan-Setu&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Nikhil-Dev435/VayuDrishti">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Dev435&repo=VayuDrishti&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 🌾 Kisan-Setu
-
-A technology-focused project designed around solving real-world problems for farmers and improving accessibility through digital solutions.
-
-**Focus:** Full-Stack Development • Real-World Problem Solving
-
-### 🌱 VayuDrishti
-
-A project focused on technology-driven environmental insights and solutions.
-
-**Focus:** Data • Technology • Environmental Solutions
-
----
-
-# 🏆 GitHub Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/Nikhil-Dev435?style=for-the-badge&logo=github&label=Followers" />
-<img src="https://img.shields.io/github/stars/Nikhil-Dev435?style=for-the-badge&logo=github&label=Stars" />
-<img src="https://img.shields.io/github/commit-activity/y/Nikhil-Dev435/Nikhildev?style=for-the-badge&logo=github&label=Commits" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/Nikhil-Dev435/Kisan-Setu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Dev435&repo=Kisan-Setu&hide_border=true" />
+  </a>
+  <a href="https://github.com/Nikhil-Dev435/VayuDrishti">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Dev435&repo=VayuDrishti&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 # 📊 GitHub Metrics
 
-| Metric | Live Data |
-|---|---|
-| 📦 Public Repositories | Automatically updated |
-| ⭐ Stars | Automatically updated |
-| 🔥 Contribution Streak | Automatically updated |
-| 📈 Contributions | Automatically updated |
-| 💻 Top Languages | Automatically updated |
-| 👥 Followers | Automatically updated |
+<p align="center">
+
+  <img src="https://img.shields.io/github/stars/Nikhil-Dev435?style=for-the-badge&logo=github&label=TOTAL%20STARS" />
+
+  <img src="https://img.shields.io/github/followers/Nikhil-Dev435?style=for-the-badge&logo=github&label=FOLLOWERS" />
+
+  <img src="https://img.shields.io/github/last-commit/Nikhil-Dev435/Nikhil-Dev435?style=for-the-badge&logo=github&label=LAST%20COMMIT" />
+
+</p>
 
 ---
 
-# 💼 What I Like Building
+# 🎯 2026 Goals
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🌐 Web Applications                       │
-│   ⚙️  Full-Stack Systems                   │
-│   🤖 AI / ML Experiments                   │
-│   🌾 Real-World Problem Solving             │
-│   📊 Data-Driven Applications               │
-│   🚀 Developer Tools                        │
-│                                             │
-└─────────────────────────────────────────────┘
+☐ Build impactful projects
+☐ Improve Full Stack Development
+☐ Learn System Design
+☐ Explore AI & Machine Learning
+☐ Contribute to Open Source
+☐ Improve GitHub profile
+☐ Build consistently
 ```
 
 ---
@@ -189,23 +168,29 @@ A project focused on technology-driven environmental insights and solutions.
 <p align="center">
 
 <a href="https://github.com/Nikhil-Dev435">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-
-<a href="mailto:nikhilchoudhary4352@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/Nikhil%20Choudhary">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/itz_nikhil_779">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
 </p>
 
+<p align="center">
+  📫 <b>Email:</b> nikhilchoudhary4352@gmail.com
+</p>
+
 ---
 
-<div align="center">
+<p align="center">
+  <b>💻 Code • Learn • Build • Repeat 🚀</b>
+</p>
 
-### 💡 "Build. Learn. Improve. Repeat."
-
-⭐ If you find my projects interesting, consider giving them a star!
-
-<img src="https://komarev.com/ghpvc/?username=Nikhil-Dev435&style=for-the-badge&color=blue" alt="Profile Views"/>
-
-</div>
+<p align="center">
+  ⭐ If you like my projects, consider giving them a star!
+</p>
